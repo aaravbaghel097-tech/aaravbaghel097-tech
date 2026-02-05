@@ -1,60 +1,66 @@
-# Hi, I'm Hariom Kumar Dhangar 👋 
-### 📊 Data Analyst | Insights & Visualization Specialist
+ # 👋 Hi, I'm Hariom Kumar Dhangar
 
-I am a results-driven Data Analyst passionate about transforming raw data into actionable business insights. I specialize in **Exploratory Data Analysis (EDA)**, statistical modeling, and creating high-impact visual stories.
+### 📊 Data Analyst | EDA • Visualization • Insights
 
----
-
-# Hi, I'm Hariom Kumar Dhangar 👋 
-### 📊 Data Analyst | Insights & Visualization Specialist
-
-I am a results-driven Data Analyst passionate about transforming raw data into actionable business insights. I specialize in **Exploratory Data Analysis (EDA)**, statistical modeling, and creating high-impact visual stories.
+I am a results-driven **Data Analyst** passionate about transforming raw data into actionable business insights. I specialize in Exploratory Data Analysis, statistical validation, and building impactful dashboards that support better decision-making.
 
 ---
 
-### 🛠️ Technical Toolbox
-| Category | Skills & Tools |
+## 🚀 About Me
+- 🎓 B.Sc. Graduate (2024)
+- 📈 Certified in Data Analytics
+- 💡 Strong focus on EDA, data cleaning, and insight generation
+- 📊 Dashboard developer using Power BI & Tableau
+- 🧠 Statistics-driven analytical approach
+- 🎯 Goal: To turn data into business value
+
+---
+
+## 🛠️ Technical Toolbox
+
+| Category | Skills |
 | :--- | :--- |
-| **Languages** | |
-| **BI & Viz** | ![Power BI](https://img.shields.io) ![Tableau](https://img.shields.io) |
-| **Analysis** | ![Excel](https://img.shields.io) **Statistics** |
-| **Libraries** | **Pandas, NumPy, Matplotlib, Seaborn, Scipy** |
+| **Languages** | Python, SQL |
+| **BI & Visualization** | Power BI, Tableau |
+| **Analysis Tools** | Excel, Statistics |
+| **Python Libraries** | Pandas, NumPy, Matplotlib, Seaborn, SciPy |
 
 ---
 
-### 🚀 Data Expertise
-- **Exploratory Data Analysis (EDA):** Identifying patterns, handling missing values, and uncovering hidden trends.
-- **Insight Extraction:** Bridging the gap between complex datasets and clear business recommendations.
-- **Data Visualization:** Building interactive dashboards in Tableau and Power BI to simplify decision-making.
-- **Statistical Analysis:** Applying hypothesis testing and descriptive statistics to validate findings.
+## 📊 Data Expertise
+
+- 🔍 **Exploratory Data Analysis (EDA)** — pattern detection, missing value handling, trend discovery  
+- 📈 **Data Visualization** — interactive dashboards & reports  
+- 🧹 **Data Cleaning & Preparation** — preprocessing and transformation  
+- 📐 **Statistical Analysis** — descriptive stats & hypothesis testing  
+- 📌 **Insight Extraction** — converting data findings into business recommendations  
 
 ---
 
-### 📬 Let's Connect
-- 💼 **LinkedIn**: [Hariom Kumar Dhangar](https://www.linkedin.com)
-- 📧 **Email**: [aaravbaghel097@gmail.com](mailto:aaravbaghel097@gmail.com)
-- 📱 **Mobile**: [+91-9818151193](tel:+919818151193)
+## 📂 Featured Work (Add Your Project Links Here)
+
+- 📌 Sales Dashboard Analysis — Power BI  
+- 📌 Customer Segmentation — Python + Pandas  
+- 📌 SQL Business Queries Project  
+- 📌 EDA Case Studies  
 
 ---
 
-### 📈 GitHub Ecosystem
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com
+- 📧 Email: aaravbaghel097@gmail.com
+- 📱 Mobile: +91-9818151193
 
 ---
 
-### 🚀 Data Expertise
-- **Exploratory Data Analysis (EDA):** Identifying patterns, handling missing values, and uncovering hidden trends.
-- **Insight Extraction:** Bridging the gap between complex datasets and clear business recommendations.
-- **Data Visualization:** Building interactive dashboards in Tableau and Power BI to simplify decision-making.
-- **Statistical Analysis:** Applying hypothesis testing and descriptive statistics to validate findings.
+## 📈 Currently Growing In
+
+- Advanced SQL  
+- Advanced Pandas  
+- Data Storytelling  
+- Business Analytics  
 
 ---
 
-### 📬 Let's Connect
-- 💼 **LinkedIn**: [Hariom Kumar Dhangar](https://www.linkedin.com)
-- 📧 **Email**: [aaravbaghel097@gmail.com](mailto:aaravbaghel097@gmail.com)
-- 📱 **Mobile**: [+91-9818151193](tel:+919818151193)
-
----
-
-### 📈 GitHub Ecosystem
-![GitHub Stats](https://github-readme-stats.vercel.app)
+⭐ *Open to Data Analyst / Business Analyst opportunities*
